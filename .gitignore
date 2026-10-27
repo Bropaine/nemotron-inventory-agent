@@ -1,0 +1,16 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.idea/
+.vscode/
+.env
+.env.*
+*.log
+logs/
+private/
+artifacts/
+*.pem
+*.key
+credentials*
+.DS_Store
